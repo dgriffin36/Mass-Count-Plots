@@ -16,6 +16,5 @@ http://www.jmp.com/en_us/software/buy-jmp.html
 ###Copyright
 Copyright 2015, Daniel Griffin.
 
-This data and code is distributed in the hope that it will be useful, but without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose. See the GNU General Public License for more details: <http://www.gnu.org/licenses/>.
 
 
