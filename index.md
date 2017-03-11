@@ -1,4 +1,4 @@
-![](http://www.prism.gatech.edu/~dgriffin36/MC%20plot%20Graphical%20Abstract.jpg)
+![](https://github.com/dgriffin36/Mass-Count-Plots/blob/master/MC%20plot%20Graphical%20Abstract.jpg)
 # Overview
 Data and JMP (Statistical Discovery Software for SAS) graphing script posted in association with the manuscript titled "Mass-Count Plots for Crystal Size Control" by D. J. Griffin, M. A. Grover, Y. Kawajiri, and R. W. Rousseau [1]. 
 
