@@ -2,7 +2,7 @@ title: Mass-Count Plots
 description: A framework for understanding and controlling batch cooling crystallization
 google_analytics: UA-71036289-1
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
 
 gems:
   - jekyll-mentions
